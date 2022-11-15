@@ -1,1 +1,1 @@
-Hello, Welcome to the Git tutorial
+Hello, Welcome to the Git tutorial ::   The function of a paragraph is to mark a pause, setting the paragraph apart from what precedes it. If a paragraph is preceded by a title or subhead, the indent is superfluous and can therefore be omitted.
